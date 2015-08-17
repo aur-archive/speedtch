@@ -1,0 +1,4 @@
+post_install() {
+  echo "=> Please ensure you have loaded the following modules:"
+  echo "=> 	 ppp_generic pppoatm slhc atm usbatm speedtch"
+}
